@@ -11,4 +11,4 @@ A simple command-line game where the computer picks a number between 1 and 100, 
 ## ▶️ How to Run
 
 ```bash
-python guess_game.py
+python Game1.py
